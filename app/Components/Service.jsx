@@ -65,7 +65,7 @@ const Service = () => {
     <section className="my-32 px-4 sm:px-8 md:px-16 lg:px-24">
       <h2 className="text-3xl font-bold text-center mb-12">Our Services</h2>
 
-      {/* Services Grid */}
+    
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 max-w-7xl mx-auto">
         {services.map((service, index) => (
           <div
@@ -88,7 +88,7 @@ const Service = () => {
         ))}
       </div>
 
-      {/* Bottom CTA */}
+
       <div className="mt-16 text-center max-w-2xl mx-auto">
         <h3 className="text-xl font-semibold mb-3 text-gray-700">
           For customized training or any other enquiry, reach out to us

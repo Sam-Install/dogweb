@@ -12,7 +12,7 @@ const VisionMission = () => {
 
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 max-w-6xl mx-auto">
 
-        {/* Vision */}
+    
         <div className="bg-white shadow-lg rounded-xl p-8 flex flex-col items-start gap-4 hover:scale-105 transition-transform duration-300">
           <FaEye className="text-3xl text-yellow-400" />
           <h3 className="text-xl font-semibold">Our Vision</h3>
@@ -21,7 +21,7 @@ const VisionMission = () => {
           </p>
         </div>
 
-        {/* Mission */}
+        
         <div className="bg-white shadow-lg rounded-xl p-8 flex flex-col items-start gap-4 hover:scale-105 transition-transform duration-300">
           <FaBullseye className="text-3xl text-yellow-400" />
           <h3 className="text-xl font-semibold">Our Mission</h3>

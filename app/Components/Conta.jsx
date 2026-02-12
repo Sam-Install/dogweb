@@ -22,7 +22,7 @@ const Conta = () => {
 
           <div>
             <h3 className="font-semibold text-gray-600">Email:</h3>
-            <p className="text-gray-700">amonmwanjala@gmail.com</p>
+            <p className="text-gray-700">Amonmwanjala03@gmail.com</p>
           </div>
         </div>
 
